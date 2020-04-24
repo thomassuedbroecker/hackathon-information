@@ -1,0 +1,13 @@
+.settings
+.classpath
+.project
+.factorypath
+.apt_generated
+.DS_Store
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
