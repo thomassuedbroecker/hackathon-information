@@ -11,11 +11,11 @@ Technologies: Kubernetes, Node-RED, Cloud Foundry and Watson Services
 ## 2) Register at IBM Cloud (Lite Account)
 
 Register at IBM Cloud using that link:
-[http://ibm.biz/euvsvirus](http://ibm.biz/euvsvirus)
+[http://ibm.biz/euvsviruscloud](http://ibm.biz/euvsviruscloud)
 
 ## 3) Feature Codes to upgrade your Lite to a Trial Account
 
-* Get your feature code from http://ibm.biz/featurecode, here you have to contact one of the IBM Mentors to get the needed **confirmation code** 
+* Get your feature code from [http://ibm.biz/featurecode](http://ibm.biz/featurecode), here you have to contact one of the IBM Mentors to get the needed **confirmation code** 
 
 * You can get a feature code from [http://cognitiveclass.ai](http://cognitiveclass.ai)
 
