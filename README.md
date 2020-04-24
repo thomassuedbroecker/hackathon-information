@@ -17,9 +17,15 @@ Register at IBM Cloud using that link:
 
 ## 3) Feature Codes to upgrade your Lite to a Trial Account
 
+**a) Get the feature code**
+
 * Get your feature code from [http://ibm.biz/featurecode](http://ibm.biz/featurecode), here you have to contact one of the IBM Mentors to get the needed **confirmation code** 
 
 * You can get a feature code from [http://cognitiveclass.ai](http://cognitiveclass.ai)
+
+**b) Apply the feature code**
+
+* [How to enter your promo code in the newer IBM Cloud UI?](https://suedbroecker.net/2018/12/05/how-to-enter-your-promo-code-in-the-newer-ibm-cloud-ui-update/)
 
 ## 4) Useful getting started resources from the Call for Code challenge
 
