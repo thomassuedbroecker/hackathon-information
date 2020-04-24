@@ -48,3 +48,4 @@ Slack contact links
 * [Thomas Suedbroecker](https://euvsvirus.slack.com/archives/D01265T1Q66) 
 * [Liam Hampton](https://euvsvirus.slack.com/archives/D012G6F0YHY)
 * [Yves Debeer](https://euvsvirus.slack.com/archives/D012G6JUW5Q)
+* [Ronan Bourlier](https://euvsvirus.slack.com/archives/D0137767PL0)
