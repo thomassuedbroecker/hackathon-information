@@ -1,6 +1,6 @@
 # Useful information during the Hackathon
 
-We want you to provide, you to get a fast and short overview on available IBM Cloud resource for you during the hackathon.
+We want you to provide a fast and short overview on the available IBM Cloud resources for you, during the hackathon.
 
 ## 1) How to prepare?
 
@@ -15,7 +15,9 @@ http://ibm.biz/euvsvirus
 
 ## 3) Feature Codes to upgrade your Lite to a Trial Account
 
-You can get a feature code from http://cognitiveclass.ai
+* Get your feature code from http://ibm.biz/featurecode, here you have to contact one of the IBM Mentors to get the needed **confirmation code** 
+
+* You can get a feature code from http://cognitiveclass.ai
 
 ## 4) Useful getting started resources from the Call for Code challenge
 
@@ -29,9 +31,7 @@ In times of crisis, communications systems are one of the first systems to becom
 
 It’s imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
 
-
-
-## IBM Hackathon mentors at EuVsVirus Hackathon
+## 5) IBM Hackathon mentors at EuVsVirus Hackathon
 
 Slack contact links
 
