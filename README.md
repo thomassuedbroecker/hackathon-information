@@ -1,6 +1,6 @@
 # Useful information during the Hackathon
 
-We want you to provide a fast and short overview on the available IBM Cloud resources for you, during the hackathon.
+We want to provide you a fast and short overview on the available IBM Cloud resources for you, during the hackathon.
 
 ## 1) How to prepare?
 
