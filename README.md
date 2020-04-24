@@ -38,4 +38,5 @@ Slack contact links
 * [Sebastian Grodzietzki](https://euvsvirus.slack.com/archives/D012MU7AH7W)
 * [Peter Schleinitz](https://euvsvirus.slack.com/archives/D012EF36MN1)
 * [Thomas Suedbroecker](https://euvsvirus.slack.com/archives/D01265T1Q66) 
-
+* [Liam Hampton](https://euvsvirus.slack.com/archives/D012G6F0YHY)
+* [Yves Debeer](https://euvsvirus.slack.com/archives/D012G6JUW5Q)
