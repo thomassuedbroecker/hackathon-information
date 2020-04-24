@@ -1,5 +1,7 @@
 # Useful information during the Hackathon
 
+We want you to provide, you to get a fast and short overview on available IBM Cloud resource for you during the hackathon.
+
 ## 1) How to prepare?
 
 Blog post: [Today I want to address a common situation for developers: You want to participate in a hackathon, and you plan to use IBM Cloud, but you have never used it before. How to prepare?](https://suedbroecker.net/2019/02/11/how-to-prepare-for-a-hackathon-with-ibm-cloud/)
