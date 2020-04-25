@@ -49,3 +49,9 @@ Slack contact links
 * [Liam Hampton](https://euvsvirus.slack.com/archives/D012G6F0YHY)
 * [Yves Debeer](https://euvsvirus.slack.com/archives/D012G6JUW5Q)
 * [Ronan Bourlier](https://euvsvirus.slack.com/archives/D0137767PL0)
+
+## 6) Others
+
+* Cost estimation
+
+![](images/cst-estimation.gif)
