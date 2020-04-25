@@ -54,4 +54,4 @@ Slack contact links
 
 * Cost estimation
 
-![](images/cst-estimation.gif)
+![](images/cost-estimation.gif)
