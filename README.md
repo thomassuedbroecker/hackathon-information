@@ -29,6 +29,8 @@ Register at IBM Cloud using that link:
 
 ## 4) Useful getting started resources from the Call for Code challenge
 
+> **COVID 19 Starter kits**
+
 These kits have been created for the Call for Code COVID-19 challenge, but can be helpful for the Hackathon:
 
 * **Crisis communications** starter kit: [https://developer.ibm.com/callforcode/getstarted/covid-19/crisis-communication/](https://developer.ibm.com/callforcode/getstarted/covid-19/crisis-communication/)
