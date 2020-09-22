@@ -45,8 +45,8 @@ It’s imperative that learning and creating can continue when educational insti
 
 Use the "Discord Server" for //Slash and contact:
 
-* Sebastian Grodzietzki
-* Thomas Südbröcker
+* IBM_Sebastian Grodzietzki
+* IBM_Thomas Südbröcker
 
 or post your question in the **"Meet our Partners area"/"#ibm"** channel.
 
