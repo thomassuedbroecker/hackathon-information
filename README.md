@@ -19,7 +19,7 @@ Register at IBM Cloud using that link:
 
 **a) Get the IBM Cloud feature code**
 
-* Get your IBM Cloud feature code from the organizer at #Slash for example Jonathan.
+* Get your IBM Cloud feature code from the organizer at //Slash for example Jonathan.
 
 * Or register at [http://cognitiveclass.ai](http://cognitiveclass.ai) for learning and get a IBM Cloud feature codes.
 
@@ -41,11 +41,16 @@ In times of crisis, communications systems are one of the first systems to becom
 
 It’s imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
 
-## 5) IBM Hackathon mentors at the #Slash Hackathon
+## 5) Contact IBM Cloud mentors at the #Slash Hackathon
 
-Discord contact links
-* [Sebastian Grodzietzki]
-* [Thomas Südbröcker]
+
+Use the "Discord Server" for //Slash and contact:
+
+* Sebastian Grodzietzki
+* Thomas Südbröcker
+
+or post your question in the **"Meet our Partners area"/"#ibm"**
+
 
 ## 6) Others
 
