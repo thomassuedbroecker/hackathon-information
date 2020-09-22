@@ -10,12 +10,12 @@ Blog post: [Today I want to address a common situation for developers: You want 
 
 Technologies: [Kubernetes](https://cloud.ibm.com/kubernetes/catalog/about?platformType=), [Node-RED](https://cloud.ibm.com/developer/appservice/create-app?starterKit=59c9d5bd-4d31-3611-897a-f94eea80dc9f&defaultLanguage=undefined),  [Cloud Foundry](https://cloud.ibm.com/cloudfoundry/overview) and [Watson Services](https://cloud.ibm.com/catalog?search=watson#search_results)
 
-## 2) Register at IBM Cloud (Lite Account)
+## 2) Register at IBM Cloud with a free Lite Account
 
 Register at IBM Cloud using that link:
 [http://ibm.biz/ibmcloudaccount-at-slash](http://ibm.biz/ibmcloudaccount-at-slash)
 
-## 3) Feature Codes to upgrade your Lite to a Trial Account
+## 3) Feature Codes to upgrade your Lite Account to a Trial Account
 
 **a) Get the IBM Cloud feature code**
 
