@@ -43,14 +43,12 @@ It’s imperative that learning and creating can continue when educational insti
 
 ## 5) Contact IBM Cloud mentors at the #Slash Hackathon
 
-
 Use the "Discord Server" for //Slash and contact:
 
 * Sebastian Grodzietzki
 * Thomas Südbröcker
 
-or post your question in the **"Meet our Partners area"/"#ibm"**
-
+or post your question in the **"Meet our Partners area"/"#ibm"** channel.
 
 ## 6) Others
 
