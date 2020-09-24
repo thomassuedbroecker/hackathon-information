@@ -27,6 +27,10 @@ Register at IBM Cloud using that link:
 
 * [IBM Cloud documentation](https://cloud.ibm.com/docs/account?topic=account-codes)
 
+**c) Error: Failure during registration**
+
+* If you have problems during the registation please check these steps documented here: [https://www.ibm.com/support/pages/how-handle-error-failure-during-registration-when-creating-ibm-cloud-account](https://www.ibm.com/support/pages/how-handle-error-failure-during-registration-when-creating-ibm-cloud-account)
+
 ## 4) Useful getting started resources from the Call for Code challenge
 
 > **COVID 19 Starter kits**
