@@ -15,6 +15,8 @@ Technologies: [Kubernetes](https://cloud.ibm.com/kubernetes/catalog/about?platfo
 Register at IBM Cloud using that link:
 [http://ibm.biz/ibmcloudaccount-at-slash](http://ibm.biz/ibmcloudaccount-at-slash)
 
+> Here you find a short 6 minute YouTube Video about the different account types: [link](https://youtu.be/mF5qKebASkY)
+
 ## 3) Feature Codes to upgrade your Lite Account to a Trial Account
 
 **a) Get the IBM Cloud feature code**
