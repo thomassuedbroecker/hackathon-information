@@ -2,7 +2,7 @@
 
 # Useful information during the Hackathon 
 
-> We want to provide you a **fast** and **short** overview on the available IBM Cloud resources for you as a hacker, during the hackathon.
+> We want to provide you a **fast** and **short** overview on the available IBM Cloud resources for you as a hacker during the hackathon.
 
 ## 1) How to prepare?
 
@@ -21,9 +21,11 @@ Register at IBM Cloud using that link:
 
 **a) Get the IBM Cloud feature code**
 
-* To request a IBM Cloud feature code from the organizer at //Slash for example. A feature code does upgrade the free IBM Lite Account to a Trial Account: To request one of the feature codes fill out the following form: [http://ibm.biz/slash-request-feature-code ](http://ibm.biz/slash-request-feature-code)
+A feature code does upgrade the free IBM Lite Account to a Trial Account.
 
-* Or register at [http://cognitiveclass.ai](http://cognitiveclass.ai) for learning and get a IBM Cloud feature codes.
+* You can request a IBM Cloud feature code from the organizer at the //Slash Hackathon. For the request of the feature code fill out following form: [http://ibm.biz/slash-request-feature-code ](http://ibm.biz/slash-request-feature-code)
+
+* You also can register for free at the free learning platform [http://cognitiveclass.ai](http://cognitiveclass.ai) and get a IBM Cloud feature codes.
 
 **b) Apply the feature code**
 
