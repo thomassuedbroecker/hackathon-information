@@ -1,5 +1,7 @@
 ![](images/laptop-2557576_1920-hackathon-small.png)
 
+**!!!OUTDATED!!!**
+
 # Useful information during the Hackathon 
 
 > We want to provide you a **fast** and **short** overview on the available IBM Cloud resources for you as a hacker during the hackathon.
