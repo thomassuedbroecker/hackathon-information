@@ -39,8 +39,11 @@ A feature code does upgrade the free IBM Lite Account to a Trial Account.
 
 **d) Error: Activate your IBM Cloud account**
 
-* How do you resolve the "We're having a problem getting your account activated" message?, please check the steps documented here:[https://www.ibm.com/support/pages/node/963186](https://www.ibm.com/support/pages/node/963186)
+* How do you resolve the "We're having a problem getting your account activated" message?, please check the steps documented here : [https://www.ibm.com/support/pages/node/963186](https://www.ibm.com/support/pages/node/963186)
 
+**f) Problem during requesting to many IBM Cloud accounts from one network**
+
+* How to whitelist your IP address?, please check the steps documented [here](https://cloud.ibm.com/registration/whitelist).
 
 ## 4) Useful getting started resources from the Call for Code challenge
 
