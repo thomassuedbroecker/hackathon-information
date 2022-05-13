@@ -37,6 +37,11 @@ A feature code does upgrade the free IBM Lite Account to a Trial Account.
 
 * If you have problems during the registration please check these steps documented here: [https://www.ibm.com/support/pages/how-handle-error-failure-during-registration-when-creating-ibm-cloud-account](https://www.ibm.com/support/pages/how-handle-error-failure-during-registration-when-creating-ibm-cloud-account)
 
+**d) Error: Activate your IBM Cloud account**
+
+* How do you resolve the "We're having a problem getting your account activated" message?, please check the steps documented here: ![https://www.ibm.com/support/pages/node/963186](https://www.ibm.com/support/pages/node/963186)
+
+
 ## 4) Useful getting started resources from the Call for Code challenge
 
 > **COVID 19 Starter kits**
